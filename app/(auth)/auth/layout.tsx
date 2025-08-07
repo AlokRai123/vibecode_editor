@@ -7,3 +7,5 @@ const Authlayout = ({children} : {children:React.ReactNode})=>{
         </main>
     )
 }
+
+export default Authlayout
